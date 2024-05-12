@@ -3,7 +3,7 @@ package org.example;
 import java.util.Objects;
 
 public class Student {
-    String name;
+    String name = "nvkjdbf";
     int age;
 
     public Student(String name, int age) {
